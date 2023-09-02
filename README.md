@@ -7,18 +7,18 @@ fastqc -v
 conda install multiqc
 multiqc
 # packages in environment at /home/silantoi/miniconda3/envs/qc:
-## Name                    Version               Build        Channel
-|------------------------|--------------------|-------------|------------|
-_libgcc_mutex             0.1                 conda_forge    conda-forge
-_openmp_mutex             4.5                       2_gnu    conda-forge
-alsa-lib                  1.2.9                hd590300_0    conda-forge
-brotli                    1.0.9                h166bdaf_9    conda-forge
-brotli-bin                1.0.9                h166bdaf_9    conda-forge
-brotli-python             1.0.9           py311ha362b79_9    conda-forge
-bzip2                     1.0.8                h7f98852_4    conda-forge
-ca-certificates           2023.7.22            hbcca054_0    conda-forge
-cairo                     1.16.0            hbbf8b49_1016    conda-forge
-certifi                   2023.7.22          pyhd8ed1ab_0    conda-forge
+|## Name                 | Version      |       Build       | Channel    |
+|------------------------|--------------|-------------------|------------|
+|_libgcc_mutex           | 0.1          |       conda_forge |conda-forge |
+|_openmp_mutex           |  4.5         |           2_gnu   | conda-forge|
+|alsa-lib                | 1.2.9        |      hd590300_0   | conda-forge|
+|brotli                  |  1.0.9       |       h166bdaf_9  | conda-forge|
+|brotli-bin              | 1.0.9        |        h166bdaf_9 | conda-forge|
+|brotli-python           | 1.0.9        |  py311ha362b79_9  | conda-forge|
+|bzip2                   | 1.0.8                h7f98852_4  | conda-forge|
+|ca-certificates         | 2023.7.22            hbcca054_0  | conda-forge|
+|cairo                   | 1.16.0            hbbf8b49_1016  | conda-forge|
+|certifi                 |  2023.7.22         |pyhd8ed1ab_0 | conda-forge|
 charset-normalizer        3.2.0              pyhd8ed1ab_0    conda-forge
 click                     8.1.7           unix_pyh707e725_0    conda-forge
 coloredlogs               15.0.1             pyhd8ed1ab_3    conda-forge
